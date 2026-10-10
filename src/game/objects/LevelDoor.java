@@ -9,7 +9,7 @@ import game.components.AABBComponent;
 
 public class LevelDoor extends GameObject {
 
-	Image Door = new Image("/Textures/Door.png");
+	Image Door = new Image("/Textures/door.png");
 
 	private boolean gotroughdoor = false;
 

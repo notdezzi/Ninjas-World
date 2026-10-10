@@ -9,7 +9,7 @@ import game.components.AABBComponent;
 
 public class Stone extends GameObject {
 
-	Image stone = new Image("/Textures/Stone.png");
+	Image stone = new Image("/Textures/stone.png");
 
 	private boolean oldgrounded = false;
 	private boolean grounded = false;
